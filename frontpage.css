@@ -4,8 +4,14 @@ ul {
   padding: 0;
   font-size: 23px;
   color:white;
+  display: inline;
   background-color: aquamarine;
   position: absolute;
-  top: 50px;
-  right: 0px;
+  top: 20px;
+  right: 10px;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
 }
