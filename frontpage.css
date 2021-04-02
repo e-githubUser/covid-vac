@@ -13,6 +13,9 @@
 .navbar {
   height: 100px;
 }
+.navbar-custom {
+  background-color: black;
+}
 
 .bg-dark {
   background-color: black;
