@@ -5,7 +5,11 @@ html, body {
 .topnav a {
   color:white;
   text-align: center;
-  padding: 30px 60px; 
+  /* padding: 30px 60px;  */
+  padding: 1vw;
+  padding: 1vh;
+  padding: 1vmin;
+  padding: 1vmax;
   border-radius: 5px;
   border: 5px; 
   text-decoration: none;
@@ -42,15 +46,13 @@ table {
   width: 120%;
 }
 
-p {
+
+.region {
   color: black;
   margin-top: 70px;
   padding-left: 45%;
   font-family: "Courier New";
   font-size: 30px;
-}
-
-.region {
   border-radius: 25px;
   border: 2px solid black;
   background-color: black;
@@ -60,7 +62,7 @@ p {
 }
 
 .center1 {
-  margin-left: 13px;
+  margin-left: 5%;
   margin-right: auto;
   font-family: "Courier New";
 }
