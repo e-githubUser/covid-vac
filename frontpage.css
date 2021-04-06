@@ -26,6 +26,7 @@ html, body {
 }
 .navbar-custom {
   width: 100%;
+  height: 10%;
   background-color: black;
 }
 
@@ -37,10 +38,6 @@ html, body {
 .topnav a:hover {
   background-color: #ddd;
   color: black;
-  padding: 1vw;
-  padding: 1vh;
-  padding: 1vmin;
-  padding: 1vmax;
 }
 
 /* Add a color to the active/current link */
@@ -48,9 +45,15 @@ html, body {
   background-color: #4CAF50;
   color: white;
 }
-
-.topnav-right {
-  float: right;
+.topnav a {
+  margin-right: 15%;
+  top: 50px;
+  right: 20px;
+  font-family:"Courier New";
+  color:white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px; 
 }
 
 table {
