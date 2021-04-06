@@ -6,11 +6,13 @@ html, body {
     padding: 1vmin;
     padding: 1vmax;
 }
-.topnav a {
-  color:white;
-  text-align: center;
+
+/* .topnav a {
+  
+  /* color:white;
+  text-align: center; */
   /* padding: 30px 60px;  */
-  padding: 1vw;
+  /* padding: 1vw;
   padding: 1vh;
   padding: 1vmin;
   padding: 1vmax;
@@ -18,10 +20,11 @@ html, body {
   border: 5px; 
   text-decoration: none;
   font-family:"Courier New";
-  font-size: 20px;
+  font-size: 20px; */
   /* float: right; */
   /* margin-top: 0px; */
-}
+
+ */
 .navbar {
   /* height: 100px; */
   padding: 1vw;
@@ -30,6 +33,7 @@ html, body {
   padding: 1vmax;
 }
 .navbar-custom {
+  width: 100%;
   background-color: black;
   padding: 1vw;
   padding: 1vh;
@@ -63,6 +67,10 @@ html, body {
   padding: 1vh;
   padding: 1vmin;
   padding: 1vmax;
+}
+
+.topnav-right {
+  float: right;
 }
 
 table {
