@@ -1,10 +1,6 @@
 html, body {
-    /* margin: 0;
-    height: 100%; */
-    padding: 1vw;
-    padding: 1vh;
-    padding: 1vmin;
-    padding: 1vmax;
+    margin: 0;
+    height: 100%;
 }
 
 /* .topnav a {
@@ -26,27 +22,15 @@ html, body {
 
  */
 .navbar {
-  /* height: 100px; */
-  padding: 1vw;
-  padding: 1vh;
-  padding: 1vmin;
-  padding: 1vmax;
+  height: 100px;
 }
 .navbar-custom {
   width: 100%;
   background-color: black;
-  padding: 1vw;
-  padding: 1vh;
-  padding: 1vmin;
-  padding: 1vmax;
 }
 
 .bg-dark {
   background-color: black;
-  padding: 1vw;
-  padding: 1vh;
-  padding: 1vmin;
-  padding: 1vmax;
 }
 
 /* Change the color of links on hover */
@@ -63,10 +47,6 @@ html, body {
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
-  padding: 1vw;
-  padding: 1vh;
-  padding: 1vmin;
-  padding: 1vmax;
 }
 
 .topnav-right {
@@ -74,34 +54,22 @@ html, body {
 }
 
 table {
-  /* margin-top: 20px;
-  width: 120%; */
-  padding: 1vw;
-  padding: 1vh;
-  padding: 1vmin;
-  padding: 1vmax;
+  margin-top: 20px;
+  width: 120%;
 }
 
 p {
   color: black;
-  /* margin-top: 70px;
-  padding-left: 45%; */
-  padding: 1vw;
-  padding: 1vh;
-  padding: 1vmin;
-  padding: 1vmax;
+  margin-top: 70px;
+  padding-left: 45%;
   font-family: "Courier New";
   font-size: 30px;
 
 }
 
 .center1 {
-  padding: 1vw;
-  padding: 1vh;
-  padding: 1vmin;
-  padding: 1vmax;
-  /* margin-left: 5%;
-  margin-right: auto; */
+  margin-left: auto;
+  margin-right: auto;
   font-family: "Courier New";
 }
 
@@ -110,30 +78,22 @@ p {
 }
 
 .center2 {
-  /* margin-left: auto;
-  margin-right: auto; */
-  padding: 1vw;
-  padding: 1vh;
-  padding: 1vmin;
-  padding: 1vmax;
+  margin-left: auto;
+  margin-right: auto;
   font-family: "Courier New";
 }
 
 .statelink a {
   color: black;
   text-align: center;
-  /* padding: 30px 60px;  */
-  padding: 1vw;
-  padding: 1vh;
-  padding: 1vmin;
-  padding: 1vmax;
-  /* border-radius: 5px;
-  border: 5px;  */
+  padding: 30px 60px; 
+  border-radius: 5px;
+  border: 5px; 
   text-decoration: none;
   font-family:"Courier New";
   font-size: 20px;
-  /* float: right; */
-  /* margin-top: 0px; */
+  float: right;
+  margin-top: 0px;
 }
 
 
