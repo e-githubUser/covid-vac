@@ -13,6 +13,9 @@
 .navbar {
   height: 100px;
 }
+.navbar-custom {
+  background-color: black;
+}
 
 .bg-dark {
   background-color: black;
@@ -53,16 +56,6 @@ p {
 .column {
   float: left;
   width: 50%;
-  padding: 5px;
-}
-
-.row {
-  margin-left:-5px;
-  margin-right:-5px;
-}
-
-.column2 {
-  float: center;
   padding: 5px;
 }
 
