@@ -39,7 +39,7 @@ td, th {
 }
 
 .number {
-		color: rgb(80, 153, 183);;
+		color:
 		font-weight: 400;	
 		font-size: 4em; 
     padding: 10px 5px;
@@ -49,6 +49,15 @@ td, th {
 		font-size: 2em;
 		font-weight: 200;
 }
+
+.h1 {
+  padding-left: 50px;
+}
+
+.table {
+  color:rgb(80, 153, 183);
+}
+
 
 /* p {
   	margin: auto;
