@@ -1,18 +1,18 @@
 body {
-  margin: 0;
+  margin: 0; /* DANGER */
   font-family: Arial, Helvetica, sans-serif;
 }
 
 .topnav {
-  overflow: hidden;
+  overflow: hidden; /* DANGER */
   background-color: black;
 }
 
 .topnav a {
-  float: left;
+  float: left; 
   color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
+  text-align: center; 
+  padding: 14px 16px; /* DANGER */
   text-decoration: none;
   font-size: 17px;
 }
@@ -27,17 +27,12 @@ body {
   color: white;
 }
 
-.topnav-right {
-  float: right;
-}
-
 table {
-
 		margin-bottom: 40px;
 		margin-top: 40px;
 		width: 100%;
-		overflow-x:auto;
-	}
+		overflow-x: auto;
+}
 
 td, th {
 		text-align: center;
@@ -67,5 +62,5 @@ p {
   	border: 1px rgb(80, 153, 183);;
   	border-radius: 30px; 
   	margin-bottom: 50px;
-  }
+}
 
