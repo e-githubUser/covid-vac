@@ -1,10 +1,9 @@
-html, body {
+body {
     margin: 0;
     height: 100%;
-}
+} 
 
 /* .topnav a {
-  
   /* color:white;
   text-align: center; */
   /* padding: 30px 60px;  */
@@ -19,8 +18,7 @@ html, body {
   font-size: 20px; */
   /* float: right; */
   /* margin-top: 0px; */
-
- */
+/* 
 .navbar {
   height: 100px;
 }
@@ -32,7 +30,7 @@ html, body {
 
 .bg-dark {
   background-color: black;
-}
+} */
 
 /* Change the color of links on hover */
 .topnav a:hover {
@@ -144,8 +142,5 @@ p {
       color: white;
   }
 }
-
-
-
 
 
