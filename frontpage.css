@@ -23,10 +23,49 @@ body {
 }
 
 .topnav a.active {
-  background-color: rgb(95, 165, 193);
+  background-color: rgb(80, 153, 183);
   color: white;
 }
 
 .topnav-right {
   float: right;
 }
+
+table {
+
+		margin-bottom: 40px;
+		margin-top: 20px;
+		width: 100%;
+		overflow-x:auto;
+	}
+
+td, th {
+		text-align: center;
+}
+
+.number {
+		color: rgb(80, 153, 183);;
+		font-weight: 400;	
+		font-size: 4em; 
+    padding: 10px 5px;
+}
+
+.header {
+		font-size: 2em;
+		font-weight: 200;
+}
+
+p {
+  	margin: auto;
+		font-size: 1.50em;
+		font-weight: 200;
+		color: white;
+		text-align: center;
+		background-color: rgb(80, 153, 183);; 
+		padding: 10px;
+		width: 700px;
+  	border: 1px rgb(80, 153, 183);;
+  	border-radius: 30px; 
+  	margin-bottom: 50px;
+  }
+
