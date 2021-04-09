@@ -28,27 +28,19 @@ body {
 }
 
 table {
-		margin-bottom: 40px;
-		margin-top: 40px;
-		width: 100%;
-		overflow-x: auto;
-}
+	background-color: rgb(80, 153, 183);
+	margin-bottom: 40px;
+	margin-top: 20px;
+	width: 100%;
+	overflow-x:auto;
+	}
 
-td, th {
-    color: color:rgb(80, 153, 183);
-		text-align: center;
-}
+td ,th {
+	text-align: center;
+	}
 
-.number {
-		color:
-		font-weight: 400;	
-		font-size: 4em; 
-    padding: 10px 5px;
-}
-
-.header {
-		font-size: 2em;
-		font-weight: 200;
+th {
+	font-size: 
 }
 
 .h1 {
@@ -62,20 +54,24 @@ td, th {
 }
 
 .state {
-	color: rgb(80, 153, 183);
-}
+  	color: black;
+  	font-weight: 300;
+  	font-size: 18px;
+    margin-right: 70px;
+    border-radius: 2px
+    }
 
-/* p {
+p {
   	margin: auto;
-		font-size: 1.50em;
-		font-weight: 200;
-		color: white;
+		font-size: 1.25em;
+		font-weight: 400;
+		color: black;
 		text-align: center;
 		background-color: rgb(80, 153, 183);; 
 		padding: 10px;
-		width: 700px;
+		width: 300px;
   	border: 1px rgb(80, 153, 183);;
   	border-radius: 30px; 
   	margin-bottom: 50px;
-} */
+}
 
