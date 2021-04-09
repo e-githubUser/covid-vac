@@ -28,19 +28,19 @@ body {
 }
 
 table {
-	background-color: rgb(80, 153, 183);
+	color: black;
 	margin-bottom: 40px;
 	margin-top: 20px;
 	width: 100%;
 	overflow-x:auto;
-	}
+}
 
 td ,th {
 	text-align: center;
 	}
 
 th {
-	font-size: 
+	text-align: center;
 }
 
 .h1 {
@@ -53,25 +53,21 @@ th {
 	margin-left: 25%;
 }
 
-.state {
-  	color: black;
-  	font-weight: 300;
-  	font-size: 18px;
-    margin-right: 70px;
-    border-radius: 2px
-    }
-
 p {
   	margin: auto;
-		font-size: 1.25em;
-		font-weight: 400;
-		color: black;
-		text-align: center;
-		background-color: rgb(80, 153, 183);; 
-		padding: 10px;
-		width: 300px;
-  	border: 1px rgb(80, 153, 183);;
+	font-size: 1.25em;
+	font-weight: 400;
+	color: black;
+	text-align: center;
+	background-color: rgb(80, 153, 183);
+	padding: 10px;
+	width: 300px;
+  	border: 1px rgb(80, 153, 183);
   	border-radius: 30px; 
   	margin-bottom: 50px;
+}
+
+.state {
+	background-color: rgb(80, 153, 183) ;
 }
 
