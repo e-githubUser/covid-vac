@@ -4,7 +4,7 @@ body {
 }
 
 .topnav {
-  overflow: hidden; /* DANGER */
+  overflow: hidden;
   background-color: black;
 }
 
@@ -56,8 +56,13 @@ td, th {
 }
 
 .contact-heading {
+	font-size: 20px;
 	margin: 10%;
-	margin-left: 40%;
+	margin-left: 25%;
+}
+
+.state {
+	color: rgb(80, 153, 183);
 }
 
 /* p {
