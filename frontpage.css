@@ -35,6 +35,7 @@ table {
 }
 
 td, th {
+    color: color:rgb(80, 153, 183);
 		text-align: center;
 }
 
@@ -54,10 +55,10 @@ td, th {
   padding-left: 50px;
 }
 
-.table {
-  color:rgb(80, 153, 183);
+.contact-heading {
+	margin: 10%;
+	margin-left: 40%;
 }
-
 
 /* p {
   	margin: auto;
