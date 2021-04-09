@@ -37,8 +37,12 @@ table {
 
 td ,th {
 	text-align: center;
-	}
+	font-size: 25px;
+}
 
+td {
+	height: 60px;
+}
 th {
 	text-align: center;
 }
@@ -55,7 +59,7 @@ th {
 
 p {
   	margin: auto;
-	font-size: 1.25em;
+	font-size: 1.50em;
 	font-weight: 400;
 	color: black;
 	text-align: center;
