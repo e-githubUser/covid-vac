@@ -51,7 +51,9 @@ th {
   padding-left: 50px;
 }
 
-.h4 {
+h3{
+	font-size: 30px;
+	font-weight: 500;
 	color: rgb(80, 153, 183);
 }
 
